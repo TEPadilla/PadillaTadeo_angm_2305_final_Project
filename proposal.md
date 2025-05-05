@@ -38,5 +38,5 @@ Minimal Viable Outcome:
   2. Choices correlate to their result in Pygame
 
 - Week N (Final)
-  1. THotfix any code needing of appending or have it running proper
+  1. Hotfix any code needing of appending or have it running proper
   2. Pygame runs without error

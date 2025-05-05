@@ -1,7 +1,7 @@
 # TextBuster: A text-based adventure game
 
 ## Demo
-Demo Video: <URL>
+Demo Video: https://youtu.be/yMrl1xjFsT0
 
 ## GitHub Repository
 GitHub Repo: https://github.com/TEPadilla/PadillaTadeo_angm_2305_final_Project
